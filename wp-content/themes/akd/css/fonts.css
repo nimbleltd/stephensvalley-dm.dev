@@ -45,12 +45,18 @@
 
  }
 
-.proxima_ltthin {
+.proxima_ltthin, h2, h3,h4,h5,h6,p ,body,form,input {
 
-    font-family: 'proxima_nova_ltthin';
+    font-family: 'proxima_nova_ltthin' !important;
 
 }
-
+h2{
+    font-size: 33px;
+    margin-bottom: 29px; 
+    color: #4a4a4a; 
+    font-weight: 300; 
+    line-height: 39px;
+}
 
 
 

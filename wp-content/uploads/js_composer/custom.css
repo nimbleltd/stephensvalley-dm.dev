@@ -1,0 +1,18 @@
+.text-horiz-pic {
+    font-family: 'proxima_nova_ltthin';
+    font-size: 18px; 
+    line-height: 27px; 
+    font-weight: 300; 
+    color: #4a4a4a; 
+    margin-bottom: 21px;
+    padding-left:0px;
+}
+
+.text-horiz-heading {
+    font-family: 'proxima_nova_ltthin';
+    font-size: 33px; 
+    margin-bottom: 29px; 
+    color: #4a4a4a; 
+    font-weight: 300; 
+    line-height: 39px;
+}

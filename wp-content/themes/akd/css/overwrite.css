@@ -411,7 +411,7 @@ body{
 
 
 
-.page-template-page-vc article.page,
+/*.page-template-page-vc article.page,
 
 .page-template-page-vc .entry-content{
 
@@ -419,6 +419,10 @@ body{
 
     padding: 0;
 
+}*/
+.page-template-page-vc article.page, .page-template-page-vc-footer article.page, .page-template-page-vc .entry-content, .page-template-page-vc-footer .entry-content {
+   margin: 0;
+   padding: 0;
 }
 
 #Custom_ID_6100039{
@@ -947,7 +951,7 @@ body{
 */
 #Custom_ID_2864856 .Custom_Class_296948010{
 
-	padding-left:0px !important;
+	/*padding-left:0px !important;*/
 
 }
 
@@ -979,6 +983,12 @@ body{
 }
 #Custom_ID_2864856 .gallery-img3 img{
 	height:480px;
+}
+.test-image img{
+	height:269px;
+}
+.second-row img{
+	height:140px;
 }
 #Custom_ID_2864856 .gallery-img5 img , #Custom_ID_2864856 figure
 , #Custom_ID_2864856 .vc_single_image-wrapper,
