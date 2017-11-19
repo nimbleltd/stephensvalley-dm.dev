@@ -994,6 +994,15 @@ body{
 .sv-story-pair{
 	height:270px;
 }
+.sv-stewardship-vert{
+	height:600px;
+}
+.sv-stewardship-topright{
+	height:400px;
+}
+.sv-stewardship-bottomright{
+	height:239px;
+}
 .second-row img{
 	height:140px;
 }
