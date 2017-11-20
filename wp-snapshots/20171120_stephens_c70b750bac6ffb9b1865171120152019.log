@@ -1,0 +1,44 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: November 20, 2017 3:20 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.30
+WORDPRESS:	4.8.3
+PHP INFO:	7.1.8 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 10MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2) when trying to connect
+ 
+TABLES: total:13 | filtered:0 | create:13 
+SQL CREATED: 20171120_stephens_c70b750bac6ffb9b1865171120152019_database.sql 
+SQL FILE SIZE: 90B (90) 
+
+==================================================================================
+DUPLICATOR ERROR
+Please try again! If the error persists see the Duplicator 'Help' menu.
+---------------------------------------------------------------------------------
+MESSAGE:
+	SQL file size too low.
+DETAILS:
+	File does not look complete.  Check permission on file and parent directory at [/Users/pcampbell/Documents/nimbleLtd/rochford/stephensValleyDesignmedia/wp-snapshots/tmp/20171120_stephens_c70b750bac6ffb9b1865171120152019_database.sql]
+TRACE:
+	 1. class.pack.database.php : Error (94)
+	 2. class.pack.php : build (232)
+	 3. ctrl.package.php : runBuild (61)
+	 4. class-wp-hook.php : duplicator_package_build (298)
+	 5. class-wp-hook.php : apply_filters (323)
+	 6. plugin.php : do_action (453)
+	 7. admin-ajax.php : do_action (91)
+==================================================================================
+
