@@ -1,3 +1,14 @@
+@media screen and (max-width:1280px){
+#Custom_ID_746329551 .Custom_Class_599254481 p{
+	font-size:20px !important;
+}
+#Custom_ID_746329551 .Custom_Class_708495184 .vc_custom_1510313871409 {
+    padding-top: 56px !important;
+    padding-right: 10% !important;
+    padding-bottom: 64px !important;
+    padding-left: 30px !important;
+}
+
 @media screen and (max-width:1199px){
 
 #Custom_ID_261707714 .Custom_Class_311203497{
@@ -44,6 +55,13 @@
 	padding-left:0px !important;
 }
 }
+
+@media screen and (max-width:1070px){
+#Custom_ID_746329551{
+	height:160px;
+}
+}
+
 @media screen and (max-width:1024px){
 .text_border:before{
 	width:225px !important;
@@ -240,6 +258,9 @@
 	/*.hide-me{
 		display: none;
 	}*/
+#Custom_ID_746329551{
+	height:auto;
+}
 
 #Custom_ID_2864856:before{
 
