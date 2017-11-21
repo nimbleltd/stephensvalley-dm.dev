@@ -232,11 +232,14 @@
 	margin-top:10px !important;
 }
 }
-@media screen and (max-width:830px){
+@media screen and (max-width:900px){
 #Custom_ID_746329551 .Custom_Class_599254481 p{	
 	line-height:30px !important;
 }
 @media screen and (max-width:767px){
+	/*.hide-me{
+		display: none;
+	}*/
 
 #Custom_ID_2864856:before{
 

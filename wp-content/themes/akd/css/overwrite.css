@@ -898,6 +898,14 @@ body{
 	margin-bottom:15px;
 
 }
+.wpcf7-form {
+ 
+margin-left: 25px;
+ 
+margin-right: 25px;
+ 
+margin-top: 25px;
+}
 
 .btn-info{
 
@@ -1005,6 +1013,23 @@ body{
 }
 .second-row img{
 	height:140px;
+}
+.center-form{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	color: #4a4a4a;
+	font-size: 18px;
+}
+.center-builder-logos{
+	padding-top: 50px;
+	justify-content:center;
+	align-items:center;
+}
+.center-builder-logos-home{
+	/*padding-top: 50px;*/
+	justify-content:center;
+	align-items:center;
 }
 #Custom_ID_2864856 .gallery-img5 img , #Custom_ID_2864856 figure
 , #Custom_ID_2864856 .vc_single_image-wrapper,
