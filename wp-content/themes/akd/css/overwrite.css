@@ -1031,6 +1031,9 @@ margin-top: 25px;
 	justify-content:center;
 	align-items:center;
 }
+.modal-padding{
+	padding-top: 35px;
+}
 #Custom_ID_2864856 .gallery-img5 img , #Custom_ID_2864856 figure
 , #Custom_ID_2864856 .vc_single_image-wrapper,
 #Custom_ID_2864856 .gallery-img6 img,
