@@ -840,10 +840,27 @@ body{
 
 	font-size:18px;
 
-	padding:9px 20px 10px !important;
+	padding:9px 50px 10px !important;
 
 	border-radius:4px;
 
+}
+.button-style{
+	/*display:flex;*/
+	justify-content:center;
+	align-items:center;
+	background-color: #5c4b51 !important; 
+	color: #ffffff !important;
+	border-radius: 4px;
+	padding: 10px 22px 10px !important;
+	margin-bottom: 0px;
+	border:none;
+}
+.button-style:hover {
+	background-color: #261c1f !important;
+}
+.wpb_content_element{
+	margin-bottom: 0px;
 }
 
 #Custom_ID_1657886 input , #Custom_ID_1657886 select{
@@ -1040,6 +1057,9 @@ margin-top: 25px;
 }
 .modal-padding{
 	padding-top: 35px;
+}
+.maroon-bar-left{
+	padding-left: 5%;
 }
 #Custom_ID_2864856 .gallery-img5 img , #Custom_ID_2864856 figure
 , #Custom_ID_2864856 .vc_single_image-wrapper,
